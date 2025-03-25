@@ -1,0 +1,17 @@
+# 2D ModLoader Settings
+
+# Путь для хранения модов
+MODS_DIR=mods
+
+# URL для скачивания модов из онлайн-сообщества
+MODS_REPO_URL=https://github.com/Maxim-77713123/Cube2D-mods
+
+# Скачивать ли моды автоматически при старте
+AUTO_DOWNLOAD_MODS=True
+
+# Максимальное количество попыток скачивания модов
+MAX_DOWNLOAD_ATTEMPTS=3
+
+# Логирование
+ENABLE_LOGGING=True
+LOG_FILE=logs/mod_loader_log.txt
